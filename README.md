@@ -30,31 +30,8 @@ I am updating this repository day by day as I learn new concepts.
 ## Status
 🚧 Work in Progress — more topics will be added day by day.
 
-#### day_2 ####
-# Python Basics 🐍
-
-This repository contains my Python learning journey.
-I am learning Python step by step and updating this repository regularly with practice code.
 
 ---
-
-## 📘 Learning Progress
-
-### ✅ Day 1: Python Fundamentals
-Topics covered:
-- Basic Python Syntax
-- Case Sensitivity
-- Indentation rules
-- Variables
-- Basic Data Types  
-  - int  
-  - float  
-  - string  
-  - boolean  
-- Operators  
-  - Arithmetic Operators  
-  - Relational Operators  
-  - Logical Operators  
 
 ---
 
@@ -99,4 +76,16 @@ Topics covered:
 🚧 Work in Progress — more topics will be added day by day.
 
 
+### ✅ Day 3: Lists & List Comprehension
+# Topics covered:
+# - Creating and modifying lists
+# - List slicing
+# - List methods (append, insert, remove, sort, reverse)
+# - Iterating through lists
+# - enumerate()
+# - List Comprehension
+
+
+## 📌 Status
+🚧 Work in Progress — more topics will be added day by day.
 
