@@ -89,3 +89,19 @@ Topics covered:
 ## 📌 Status
 🚧 Work in Progress — more topics will be added day by day.
 
+
+### ✅ Day 4: Tuple
+# Topics covered:
+# - Creating tuples
+# - Accessing tuple elements
+# - Tuple operations
+# - Immutability of tuple
+# - Tuple methods (count, index)
+# - Packing and unpacking
+# - Nested tuples
+
+
+## 📌 Status
+🚧 Work in Progress — more topics will be added day by day.
+
+
