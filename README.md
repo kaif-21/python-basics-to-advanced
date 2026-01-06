@@ -104,4 +104,13 @@ Topics covered:
 ## 📌 Status
 🚧 Work in Progress — more topics will be added day by day.
 
+### ✅ Day 5: Set
+# Topics covered:
+# - Creating sets
+# - Adding and removing elements
+# - Membership testing
+# - Set operations (union, intersection, difference, symmetric difference)
+# - Subset and superset
+# - Removing duplicates using set
+# - Counting unique words in text
 
