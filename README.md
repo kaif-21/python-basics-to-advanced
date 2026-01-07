@@ -114,3 +114,32 @@ Topics covered:
 # - Removing duplicates using set
 # - Counting unique words in text
 
+
+
+## 📌 Status
+🚧 Work in Progress — more topics will be added day by day.
+
+
+# Python Dictionaries – Day 6
+
+This repository contains a complete **Python Dictionaries tutorial** with examples from basics to advanced usage.
+
+---
+
+## 📌 Topics Covered
+
+1. **Introduction**
+2. **Creating Dictionaries**
+3. **Accessing Elements**
+4. **Modifying Dictionary**
+5. **Dictionary Methods*
+6. **Copying Dictionaries**
+7. **Iterating over Dictionaries**
+8. **Nested Dictionaries**
+9. **Dictionary Comprehensions**
+10. **Practical Examples**
+
+
+
+## 📌 Status
+🚧 Work in Progress — more topics will be added day by day.
