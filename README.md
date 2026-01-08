@@ -143,3 +143,22 @@ This repository contains a complete **Python Dictionaries tutorial** with exampl
 
 ## 📌 Status
 🚧 Work in Progress — more topics will be added day by day.
+
+# Python Functions Practice
+
+This repository contains beginner to intermediate level Python function examples.
+The goal of this project is to strengthen core Python concepts such as functions,
+arguments, return values, and problem-solving logic.
+
+## Topics Covered
+- Variable length arguments (*args, **kwargs)
+- Returning multiple values from a function
+- Temperature conversion
+- Password strength checker
+- Shopping cart total cost calculation
+- Palindrome checking
+- Recursion (Factorial)
+
+
+## 📌 Status
+🚧 Work in Progress — more topics will be added day by day.
