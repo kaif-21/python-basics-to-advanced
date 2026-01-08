@@ -143,7 +143,7 @@ This repository contains a complete **Python Dictionaries tutorial** with exampl
 
 ## 📌 Status
 🚧 Work in Progress — more topics will be added day by day.
-
+### ✅ Day 7: funtion
 # Python Functions Practice
 
 This repository contains beginner to intermediate level Python function examples.
