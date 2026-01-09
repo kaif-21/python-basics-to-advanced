@@ -162,3 +162,35 @@ arguments, return values, and problem-solving logic.
 
 ## 📌 Status
 🚧 Work in Progress — more topics will be added day by day.
+
+### ✅ Day 8: funtion
+# Lambda, Map & Filter Functions in Python
+
+This repository explains **lambda functions**, **map()**, and **filter()** in Python using simple and practical examples.  
+It is suitable for beginners as well as for interview preparation.
+
+---
+
+## 📌 Topics Covered
+- Lambda Function
+- map() Function
+- filter() Function
+
+---
+
+## 🔹 1. Lambda Function
+
+A **lambda function** is a small anonymous function defined using the `lambda` keyword.
+
+### Key Points:
+- No function name
+- Can take multiple arguments
+- Contains only **one expression**
+- Useful for short operations
+
+### Syntax:
+```python
+lambda arguments: expression
+
+## 📌 Status
+🚧 Work in Progress — more topics will be added day by day.
