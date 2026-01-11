@@ -194,3 +194,40 @@ lambda arguments: expression
 
 ## 📌 Status
 🚧 Work in Progress — more topics will be added day by day.
+
+ 
+
+
+###  ✅ Day 9: Python Modules and Standard Library Example
+
+This repository contains a Python script that demonstrates how to use **modules, packages, and Python’s standard library**.  
+The code is written for **learning and practice purposes**, especially for beginners.
+
+---
+
+## Topics Covered
+
+- Importing modules in Python
+- User-defined functions
+- Python standard library overview
+- Working with arrays
+- Random number generation
+- File and directory operations
+- JSON data serialization
+- CSV file handling
+- Date and time operations
+- Regular expressions
+
+---
+
+## Description of the Code
+
+The script demonstrates:
+
+- Different ways to import modules such as `math`, `random`, `os`, etc.
+- A user-defined function `multiply(a, b)`
+- Usage of standard library modules like:
+
+## 📌 Status
+🚧 Work in Progress — more topics will be added day by day.
+
