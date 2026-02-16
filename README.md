@@ -9,7 +9,7 @@ I am updating this repository day by day as I learn new concepts.
 
 ## Learning Progress
 
-### Day 1: Python Basics
+### Day 1: Python Basics concepts
 - Basic Python Syntax
 - Variables in Python
 - Basic Data Types
