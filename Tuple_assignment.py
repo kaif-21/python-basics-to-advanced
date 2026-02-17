@@ -5,7 +5,7 @@
 
 # -----------------------------------------------------
 # Assignment 1: Creating and Accessing Tuples
-# Create a tuple with the first 10 positive integers.
+# Create a tuple with the first 10 positive integers..
 # -----------------------------------------------------
 t = tuple(range(1, 11))
 print(t)
@@ -149,3 +149,4 @@ minimum, maximum, total = tuple_operations(t)
 print("Min:", minimum)
 print("Max:", maximum)
 print("Sum:", total)
+
