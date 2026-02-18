@@ -1,3 +1,4 @@
+# ATM MINI PROJECT
 balance = 200000
 correct_pin = 9660
 transection = []
@@ -9,7 +10,7 @@ pin = int(input("Enter your PIN: "))
 if pin != correct_pin:
     print("Invalid PIN. Please enter correct PIN.")
 else:
-    while True:  # NEW
+    while True:  # NEW 
         print("\n1. Check Balance")
         print("2. Deposit Money")
         print("3. Withdraw Money")
@@ -55,6 +56,7 @@ else:
 
         else:
             print("Invalid choice")
+
 
 
 
