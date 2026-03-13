@@ -1,7 +1,7 @@
 # Day 1: Python Basics
 # Topic: Basic Syntax, Variables, Data Types, Operators
 
-# -----------------------------
+# ------------------------------
 # Case Sensitivity
 # Python is case-sensitive
 age = 23
