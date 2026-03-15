@@ -3,9 +3,9 @@ balance = 200000
 correct_pin = 9660
 transection = []
 
-print("--------------- Welcome to ATM ---------------")
+print("---------------- Welcome to ATM ---------------")
 
-pin = int(input("Enter your PIN: "))
+pin = int(input("Enter your PIN:  "))
 
 if pin != correct_pin:
     print("Invalid PIN. Please enter correct PIN.")
