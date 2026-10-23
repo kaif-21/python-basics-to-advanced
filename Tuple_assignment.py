@@ -11,6 +11,7 @@ t = tuple(range(1, 11))
 print(t)
 
 
+
 # -----------------------------------------------------
 # Assignment 2: Accessing Tuple Elements
 # Print first, middle, and last elements.
