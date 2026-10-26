@@ -1,4 +1,5 @@
 # reading file
+
 with open("example.csv","r") as file:
     for line in file:
         print(line.strip())  #strip() remove the new line charcter
