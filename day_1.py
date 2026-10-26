@@ -9,6 +9,9 @@ Age = 25
 print(age)
 print(Age)
 
+
+
+
 # -----------------------------
 # Indentation
 # Python uses indentation to define blocks of code
